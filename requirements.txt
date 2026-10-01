@@ -1,0 +1,5 @@
+python-telegram-bot==22.8
+PyMuPDF>=1.26.0
+Pillow>=11.0.0
+pytesseract>=0.3.13
+python-dotenv>=1.1.0
